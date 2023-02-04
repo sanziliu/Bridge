@@ -1,0 +1,5 @@
+payload:
+  # > chatGPT
+  - PROCESS-NAME,openai
+  - PROCESS-NAME,chatGPT
+  - DOMAIN-SUFFIX,openai.com
