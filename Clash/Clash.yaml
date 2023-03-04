@@ -357,7 +357,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./RuleSet/Extra/Microsoft/openai.yaml
-    url: https://raw.githubusercontent.com/sanziliu/Bridge/main/Clash/openai.yaml
+    url: https://raw.githubusercontent.com/sanziliu/Bridge/main/Clash/openai.yaml?token=GHSAT0AAAAAAB6UXQHAAP4MMXSETPQPQETIZACXQMA
     interval: 86400    
 
   YouTubeMusic:
@@ -497,7 +497,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./RuleSet/Extra/Tunein
-    url: https://raw.githubusercontent.com/sanziliu/Bridge/main/Clash/Tunein.yaml
+    url: https://raw.githubusercontent.com/sanziliu/Bridge/main/Clash/Tunein.yaml?token=GHSAT0AAAAAAB6UXQHAZZV5WFOYNJDTBFVSZACXQQQ
     interval: 86400 
 
   Streaming:
