@@ -1,0 +1,4 @@
+payload:
+  # > Bloomberg
+  - PROCESS-NAME,Bloomberg
+  - DOMAIN-SUFFIX,bloomberg.com
