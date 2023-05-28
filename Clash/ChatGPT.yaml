@@ -1,5 +1,6 @@
 payload:
   # > ChatGPT
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,challengers.cloudflare.com
