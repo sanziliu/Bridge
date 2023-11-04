@@ -1,9 +1,10 @@
+# > OpenAI
+# 总条数: 6条
 payload:
-  # > ChatGPT
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,challengers.cloudflare.com
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
-  - PROCESS-NAME,msedgewebview2.exe
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN,o33249.ingest.sentry.io
