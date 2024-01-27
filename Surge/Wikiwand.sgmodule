@@ -1,6 +1,5 @@
 #!name=Wikiwand
 #!desc=Wikipedia to Wikiwand
-#!system=ios
 
 [URL Rewrite]
 ^https://zh.(m.)?wikipedia.org/zh(-\w*)?(?=/) https://www.wikiwand.com/zh$2 302
