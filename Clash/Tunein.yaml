@@ -1,7 +1,0 @@
-payload:
-  # > Tunein
-  - PROCESS-NAME,Tunein
-  - DOMAIN-SUFFIX,tunein.com
-  - DOMAIN-SUFFIX,radiotime.com
-  - DOMAIN-SUFFIX,streamguys1.com
-  - DOMAIN-SUFFIX,streamtheworld.com
